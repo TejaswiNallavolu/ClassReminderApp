@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
+# App Focus:
+
+Our app is a Single Page Application that shows a reminder of a class schedule on the first screen. The user will be able to login into the app and view his/her upcoming classes as well. 
+
+# Proposal Repo:
+
+https://github.com/TejaswiNallavolu/proposal
+
+
+# Link to the RFP repo:
+
+https://github.com/harshakurra123/ClassRemainder
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
